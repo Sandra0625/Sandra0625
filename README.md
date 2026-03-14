@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sandra Milena Pabon Luna
 
-<!--
-**Sandra0625/Sandra0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | Java | Spring Boot | React | MySQL
 
-Here are some ideas to get you started:
+Software developer with 4 years of experience building web applications and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+- Java
+- Spring Boot
+- JavaScript
+- React
+- MySQL
+- REST APIs
+
+Portfolio Projects:
+- Inventory Management System
+- Authentication API with JWT
+- Full Stack Web Application
+
+GitHub: https://github.com/Sandra0625
+Email: sandrapabon678@gmail.com
